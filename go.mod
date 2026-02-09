@@ -1,4 +1,4 @@
-module github.com/hellygirl/enumer
+module github.com/hellygril/enumer
 
 go 1.25.6
 
