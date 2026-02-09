@@ -1,4 +1,4 @@
-module github.com/loggerhead/enumer
+module github.com/hellygirl/enumer
 
 go 1.25.6
 
